@@ -59,3 +59,9 @@
 # Информация о работе с удаленным репозиторием
 
 [Работа с удаленным репозиторием](https://itproger.com/course/git/5)
+
+# Ссылки
+
+[Лайфхакер](https://lifehacker.ru/chto-takoe-markdown/)
+
+[Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference#indentation)
