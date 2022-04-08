@@ -65,3 +65,13 @@
 [Лайфхакер](https://lifehacker.ru/chto-takoe-markdown/)
 
 [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference#indentation)
+
+# Эмодзи
+
+:dizzy:
+
+:+1:
+
+:relieved:
+
+:kissing_heart:
